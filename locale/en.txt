@@ -1,0 +1,82 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Virtually tour VIrani Telecom Head Office, Dahisar (3D vista Trial version)
+
+### Title
+tour.name = Virani Telecom HO
+
+## Skin
+
+### Multiline Text
+HTMLText_CF5C1DAA_DCED_87AE_41DA_8A0FAD35F673.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:22px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Subtitle
+panorama_C1CE5C94_D7E3_2209_41CB_D26BACB2C6CD.subtitle = Lab 1 set up of askldj asdjla \
+asdklj; \
+asddlkfj
+panorama_CF27AAEA_D7E0_E61E_41CF_881AE6F16CB0.subtitle = view from a outside/road
+panorama_D83798CD_D22C_E706_41BD_DF2E04E789E5.subtitle = Lab 2 view from another side
+panorama_D838D2CF_D22C_AB02_41E8_0CFB28E34E05.subtitle = asdljas \
+df;asdjfasdf \
+asdf;ljkasdf \
+a;sdjfkl
+
+### Title
+panorama_C024120A_D7E1_E61E_41D4_39D3E911DAF0.label = Lab 2-first view
+panorama_C1CE5C94_D7E3_2209_41CB_D26BACB2C6CD.label = Lab 1
+panorama_C1CE6AC1_D7E3_260A_41E5_26C6DA3202B6.label = alley 1
+panorama_C1CE8F70_D7E3_FE0A_41D3_E03FC286E5BD.label = reception desk
+panorama_C1CF4540_D7E3_E20A_41DC_ADB19FB57462.label = alley 2
+panorama_C1CF4AF1_D7E3_E60A_4198_B420ECCC22D3.label = near reception desk
+panorama_CF27AAEA_D7E0_E61E_41CF_881AE6F16CB0.label = footpath-entrance
+panorama_CF459F03_D7E3_1E0F_41DE_46189C436765.label = Office 1
+panorama_D83798CD_D22C_E706_41BD_DF2E04E789E5.label = lab-2-second side
+panorama_D838D2CF_D22C_AB02_41E8_0CFB28E34E05.label = office 2
+panorama_D839B477_D22D_AF02_41D7_7A964C8D6BB6.label = gate-entrance
+video_C5320340_DCAC_BCDA_41E7_2123FF73D6F9.label = Virani Telecom All in One Repair Shop
+
+## Popup
+
+### Title
+window_C5B7B00F_D8E7_2217_41CE_580807D7BBA3.title = Introduction video
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C02F50EE_D7A1_6216_41CB_18023297F283.toolTip = Enter into office
+HotspotPanoramaOverlayArea_C03E64D4_D7A7_220A_41E3_02B676625C0C.toolTip = Enter into Lab 2
+HotspotPanoramaOverlayArea_C240E2C8_D28F_3B0E_41C6_6AFDD75A2BA5.toolTip = Move outside
+HotspotPanoramaOverlayArea_C2687078_D283_F70E_41E0_2906F041B45B.toolTip = Enter inside
+HotspotPanoramaOverlayArea_CC7E03E7_DCAD_83A6_41DD_705CA19E4214.toolTip = click to download cover image
+HotspotPanoramaOverlayArea_CCF5855E_DCD4_84E6_41DE_23CCEA65495D.toolTip = Out achievements
+HotspotPanoramaOverlayArea_CDA97663_D76F_2E0E_41D9_066D6471D05D.toolTip = go there
+HotspotPanoramaOverlayArea_CE035E80_D761_3E0A_41E2_213E36BF3DD9.toolTip = Move outside
+HotspotPanoramaOverlayArea_CE32406C_D7A7_221A_41E2_12AD37C988D2.toolTip = Move outside
+HotspotPanoramaOverlayArea_CE32E338_D761_267A_41E4_5EE7BAA37D74.toolTip = Outside at entrance
+HotspotPanoramaOverlayArea_CE8A32F6_D763_67F6_41C3_DE55DA29BAB7.toolTip = Move there
+HotspotPanoramaOverlayArea_CEAA5DBB_D7A1_E27E_41E3_416B5E329697.toolTip = Enter into Lab 2
+HotspotPanoramaOverlayArea_CECCFD15_D763_620A_41DB_6F036B5A1D4F.toolTip = Go there
+HotspotPanoramaOverlayArea_CEF9DA42_D7AF_260E_41E9_0A2FC61F63BB.toolTip = Enter into Lab 1
+HotspotPanoramaOverlayArea_CF0A831C_D7E3_263A_41C3_52AD19319E6A.toolTip = Go there
+HotspotPanoramaOverlayArea_CF2057A7_D7A1_6E16_41A4_7063E38BFE7B.toolTip = go to on another side
+HotspotPanoramaOverlayArea_CF24A6F7_D7A3_2FF6_41E5_79A661260BC4.toolTip = Enter into office
+HotspotPanoramaOverlayArea_CF2FC69B_D7A1_2E3E_41E6_39DC24B2A5E9.toolTip = Enter into Lab 1
+HotspotPanoramaOverlayArea_CF3A5676_D7A7_6EF6_41DE_78E0C647A2DC.toolTip = move outside
+HotspotPanoramaOverlayArea_CF8CDDDF_D7A3_6236_41CF_9848BE6607FD.toolTip = Enter to Lab 1
+HotspotPanoramaOverlayArea_CFAF75A9_D7A1_621A_41DA_8E6AF98B4351.toolTip = outside at entrance
+HotspotPanoramaOverlayArea_CFF7F91E_D7DF_2236_41A0_1D692AC983E3.toolTip = Enter into Lab 1
+HotspotPanoramaOverlayArea_D3822722_DCAC_8459_41CC_407CD9063CD6.toolTip = Go on another side
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_C5B07007_D8E7_2217_41DC_67F42911E32D.url = //www.youtube.com/embed/iRtlk8WIMhs?v=iRtlk8WIMhs
